@@ -34,3 +34,27 @@ body {
   background-color: white;
   color: #000000;
 }
+
+.recargar{
+  position: absolute;
+  margin-left: 300px;
+  top: 1100px;
+  left: 400;
+  
+  text-decoration: none;
+  border: 1px solid black;
+  color: black; 
+
+}
+
+.boton_reset{
+  padding: 20px;
+  background-color: blueviolet;
+  border-radius: 10px;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.div_oculto{
+  display:none;
+}
